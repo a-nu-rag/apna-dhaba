@@ -69,7 +69,7 @@ html{
  #home::before{
      content: "";
      position: absolute;
-     background: url(images/bg1.jpg) no-repeat center center/cover;
+     background: url(bg1.jpg) no-repeat center center/cover;
      top: 0px;
      left: 0px;
      height: 638px;
@@ -119,7 +119,7 @@ html{
         border-radius: 10px;
      }
      #connect{
-         background: url(images/join.jpg) no-repeat center center/cover;
+         background: url(join.jpg) no-repeat center center/cover;
      }
      .join{
          color: rgb(255, 255, 255);
@@ -136,7 +136,7 @@ html{
         height: 100%;
         z-index: -1;
         opacity: .7;
-        background: url(images/contact.jpg) no-repeat center center/cover;
+        background: url(contact.jpg) no-repeat center center/cover;
     }
     .contact-box{
         display: flex;
